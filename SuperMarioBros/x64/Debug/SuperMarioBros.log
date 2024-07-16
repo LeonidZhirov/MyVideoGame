@@ -1,7 +1,22 @@
-﻿  Player.cpp
-C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(49,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(50,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(56,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(64,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(107,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+﻿  Game.cpp
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Game.cpp(30,13): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Game.cpp(102,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Game.cpp(102,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Player.cpp
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(44,51): warning C4244: аргумент: преобразование "const float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(44,44): warning C4244: аргумент: преобразование "const float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(106,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(107,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(113,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(122,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\user\source\repos\SuperMarioBros\SuperMarioBros\Player.cpp(198,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
   SuperMarioBros.vcxproj -> C:\Users\user\source\repos\SuperMarioBros\x64\Debug\SuperMarioBros.exe
